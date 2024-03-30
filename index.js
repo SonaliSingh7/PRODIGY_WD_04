@@ -12,7 +12,7 @@
 
 // typed js
 var typed = new Typed('#element', {
-    strings: ['Web Developer.', 'Youtuber.','Web Developer.'],
+    strings: ['Web Developer.', 'Web Developer.'],
     typeSpeed: 80,
   });
 
